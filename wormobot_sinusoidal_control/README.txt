@@ -1,2 +1,0 @@
-Sinusoidal control
-Arduino code
